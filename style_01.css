@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: rebeccapurple;
+}
+body{
+    background-color: yellow;
+}
+/* div{
+    background-color: yellow; //we can use id or style
+    color: red;
+} */
+ .id {
+    color: red;
+ }
+#box{
+    background-color: rgb(80, 205, 205);
+    color: azure;
+}
+button{
+    color: red;
+    background-color: green;
+}
