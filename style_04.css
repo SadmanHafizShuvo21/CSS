@@ -1,0 +1,19 @@
+div{
+    color:green;
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+    margin: 25px;
+    display: inline;
+    /* display: inline; display shows it is block,inline,block inline or none. */
+}
+button{
+
+    display: block;
+}
+/* #Box2{
+    display: none;
+} */
+/* #Box1{
+    visibility: hidden; hidden but occupied space
+} */
