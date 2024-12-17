@@ -11,7 +11,7 @@ void solve(){
     std::string name;
     std::cin>>name;
     
-    std::cout<<rendom<<"\n"<<std::flush;
+    std::cout<<rendom<<"\n";
 
     int i=0;
     while(i<rendom){
