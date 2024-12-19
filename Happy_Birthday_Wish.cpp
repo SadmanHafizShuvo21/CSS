@@ -11,7 +11,7 @@ void solve(){
     std::string name;
     std::cin>>name;
     
-    std::cout<<rendom<<"\n";
+    std::cout<<"The numbers of time Shuvo will wish you is "<<rendom<<"\n";
 
     int i=0;
     while(i<rendom){
