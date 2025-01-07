@@ -9,9 +9,9 @@ void solve(){
 
     std::cout<<"Enter you name: "<< std::flush;
     std::string name;
-    std::cin>>name;
+    std::getline(std::cin, name);
     
-    std::cout<<"The numbers of time Shuvo will wish you is "<<random<<"\n";
+    std::cout<<"The numbers of time Shuvo will wish "<<name<<" is "<<random<<"\n";
 
     int i=0;
     while(i<random){
