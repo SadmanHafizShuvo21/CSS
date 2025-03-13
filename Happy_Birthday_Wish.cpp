@@ -15,7 +15,7 @@ void solve(){
 
     int i=0;
     while(i<random){
-        std::cout<<"Happy Birthday to you, "<<name<<"\n";
+        std::cout<<"Happy Birthday to you, "<<name<<".\n";
         i++;
     }
 }
